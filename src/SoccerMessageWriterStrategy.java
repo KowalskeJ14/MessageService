@@ -11,7 +11,7 @@
 public class SoccerMessageWriterStrategy implements MessageStrategy {
 
     public String displayMessage(){
-     return "Liverpool sucks & Spurs rule!";   
+     return "Liverpool rules!";   
     }
     
 }
